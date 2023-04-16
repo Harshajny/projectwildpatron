@@ -1,0 +1,30 @@
+[
+  {"id": 1,
+    "name": "Hero",
+    "picture": "images/images  (1).jpeg",
+    "age": 3,
+    "breed": "Harbour Seal",
+    "location": "The National Marine Mammal Foundation, San Diego"
+},
+{"id": 2,
+    "name": "Goku",
+    "picture": "images/images  (4).jpeg",
+    "age": 3,
+    "breed": "Cape porcupine",
+    "location": "Porcupine Specialist Group"
+},
+{"id": 3,
+    "name": "Klint",
+    "picture": "images/images  (3).jpeg",
+    "age": 3,
+    "breed": "West African Giraffe",
+    "location": "The Giraffe Conservation Foundation, Namibia"
+},
+{"id": 4,
+    "name": "Loka",
+    "picture": "images/images  (2).jpeg",
+    "age": 3,
+    "breed": "The Koala",
+    "location": "The Australian Koala Foundation (AKF),Queensland"
+}
+]
